@@ -23,3 +23,54 @@ header{
   margin-left: 0px;
 
 }
+
+ #Bandeau{
+
+  width: 100%;
+  height: 60px;
+  background-color: rgb(59, 56, 56);
+  opacity: 0.6;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+
+ }
+
+ #Title{
+
+  font-size: 22px;
+  margin-top: 15px;
+  margin-left: 20px;
+  float: left;
+
+ }
+
+ #DivHeader1{
+
+  width: 45%;
+  height: 500px;
+  position: absolute;
+  top: 120px;
+  left: 20px;
+
+ }
+
+ #DivHeader1{
+
+  width: 45%;
+  height: 250px;
+  position: absolute;
+  top: 120px;
+  left: 20px;
+
+ }
+
+ #SousTitle1{
+
+  font-size: 35px;
+  opacity: 0.6;
+  position: absolute;
+  top: 80px;
+  left: 110px;
+
+ }
